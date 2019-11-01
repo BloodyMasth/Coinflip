@@ -4,7 +4,6 @@ import random
 # Auteur: Bloodyfire
 # Dernière modification le 15/07/2019
 # Pile ou face avec interface
-# https://pastebin.com/nJn0vUj7
 
 # Fenètre 1
 # Créer la fenètre
